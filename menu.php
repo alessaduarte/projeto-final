@@ -12,7 +12,7 @@
                     <a class="nav-link text-uppercase" href="?pg=principal">Home</a>
                 </li>
                 <li class="nav-item px-2 py-2">
-                    <a class="nav-link text-uppercase" href="?pg=sobre">Sobre</a>
+                    <a class="nav-link text-uppercase" href="sobre.php">Sobre</a>
                 </li>
                 <li class="nav-item px-2 py-2">
                     <a class="nav-link text-uppercase" href="?pg=produtos">Produtos</a>

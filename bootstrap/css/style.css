@@ -64,9 +64,27 @@ header img {
 }
 
 form {
-
     padding: 1.5rem
 }
+
+#categorias {
+    margin-top: 0px;
+}
+
+#categorias .card {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.1);
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.contato {
+    margin-bottom: 3rem;
+}
+
+.contato, form h2 {
+        padding-bottom: 1rem;
+}
+
 ::-webkit-scrollbar {
     width: 1rem;
 }

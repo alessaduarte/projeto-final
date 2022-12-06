@@ -18,8 +18,11 @@
 		include_once('menu.php'); 
 
         include_once('principal.php');
+
+		include_once('categorias.php');
 		
 		include_once('contato.php');
+		
 	?>
 
 	
