@@ -21,7 +21,7 @@
                     <a class="nav-link text-uppercase" href="?pg=contato">Fale Conosco</a>
                 </li>
                 <li class="nav-item px-2 py-2">
-                    <a class="nav-link text-uppercase" href="?pg=login">Login</a>
+                    <a class="nav-link text-uppercase" href="login.php">Login</a>
                 </li>
             </ul>
         </div>

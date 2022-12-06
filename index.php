@@ -22,7 +22,6 @@
 		include_once('categorias.php');
 		
 		include_once('contato.php');
-		
 	?>
 
 	
